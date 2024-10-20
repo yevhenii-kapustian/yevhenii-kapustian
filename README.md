@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=yevhenii-kapustian&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ke1vin.kapustian@gmail.com  ) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yevhenii06) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
