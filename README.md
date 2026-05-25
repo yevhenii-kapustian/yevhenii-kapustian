@@ -1,25 +1,68 @@
-# 💫 About Me:
-🔭 I’m currently working on my own project.<br>💪🏼 Gym :3 <br>
+# Hi there, I'm Yevhenii Kapustian! 👋
+### Frontend Developer | React, Next.js & Flutter Specialist
 
+I am a passionate Frontend Developer based in Stockholm, Sweden, with experience building web applications and internal software from scratch. I love solving complex problems, designing intuitive UI/UX, and rapidly adapting to new technologies.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yevhenii1337) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ev_ge_niii_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_ev_ge_sha_) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yevhenii-kapustian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yevhenii-kapustian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenii-kapustian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yevhenii-kapustian&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 📍 Based in **Stockholm, Sweden**
+- 📧 Contact me: [yevheniikapustian@gmail.com](mailto:yevheniikapustian@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yevhenii-kapustian](https://linkedin.com/in/yevhenii-kapustian)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yevhenii-kapustian&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yevhenii06) 
+### 🚀 About Me
+- ⚡ **Fast Learner:** Transitioned from React/Next.js to Dart/Flutter in just two weeks to build a core AI-driven module for a recruitment platform.
+- 🎨 **Full-Cycle Developer:** Skilled in managing the full product lifecycle — from creating UI/UX designs in Figma to setting up automated CI/CD pipelines.
+- 👥 **Agile & Scrum:** Experienced in tight Scrum environments, taking ownership of products, and writing clear User/Technical Stories.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frontend:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Tools, Testing & DevOps:**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yevhenii-kapustian&show_icons=true&theme=radial&hide_border=true" alt="Yevhenii's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenii-kapustian&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🏆 Featured Projects & Experience
+
+* **Frontend Developer Intern @ Nomologics** (Artemis AI Platform)
+    * Designed the UI in Figma and defined Agile User/Technical Stories.
+    * Mastered Dart & Flutter in 14 days to develop the core CV adaptation module.
+    * Tested API routes with Bruno and shipped the MVP in a tight Scrum setup.
+* **Asset Performance Management (APM) Platform**
+    * Built a web app from scratch using React, Next.js, TypeScript, and Supabase.
+    * Implemented Role-Based Access Control (RBAC) and a data-driven dashboard with real-time KPIs.
+* **Microsoft Hackathon Winner/Participant**
+    * Developed an AI & Data-driven solution optimizing last-mile delivery logistics under tight deadlines.
+
+---
+
+### 🗣️ Languages
+- **English:** Fluent
+- **Ukrainian / Russian:** Native
+- **Swedish:** Basic
