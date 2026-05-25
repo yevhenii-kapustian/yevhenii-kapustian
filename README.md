@@ -50,14 +50,19 @@ I am a passionate Frontend Developer based in Stockholm, Sweden, with experience
 
 ### 🏆 Featured Projects & Experience
 
-* **Frontend Developer Intern @ Nomologics** (Artemis AI Platform)
+* **[Frontend Developer Intern @ Nomologics](https://www.youtube.com/watch?v=GeIVC_zI9nc)** (Artemis AI Platform)
     * Designed the UI in Figma and defined Agile User/Technical Stories.
     * Mastered Dart & Flutter in 14 days to develop the core CV adaptation module.
     * Tested API routes with Bruno and shipped the MVP in a tight Scrum setup.
-* **Asset Performance Management (APM) Platform**
+* **[Asset Performance Management (APM) Platform](https://www.youtube.com/watch?v=YVyowsOoYZY)**
     * Built a web app from scratch using React, Next.js, TypeScript, and Supabase.
     * Implemented Role-Based Access Control (RBAC) and a data-driven dashboard with real-time KPIs.
-* **Microsoft Hackathon Winner/Participant**
+* **[Marketplace Platform](https://backend-school-app-jcm2.vercel.app/)**
+    * Developed a full-stack web application for product trading and classified ads.
+    * Implemented secure user authentication (Sign In / Sign Up) to protect user routes.
+    * Created dynamic CRUD functionality allowing users to publish, manage, and list items for sale.
+    * Deployed and optimized the live application using Vercel.
+* **[Microsoft Hackathon](https://ironpath-4-0-438816776081.us-west1.run.app/)**
     * Developed an AI & Data-driven solution optimizing last-mile delivery logistics under tight deadlines.
 
 ---
