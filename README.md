@@ -42,8 +42,8 @@ I am a passionate Frontend Developer based in Stockholm, Sweden, with experience
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yevhenii-kapustian&show_icons=true&theme=radial&hide_border=true" alt="Yevhenii's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenii-kapustian&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yevhenii-kapustian&show_icons=true&theme=radial&hide_border=true" alt="Yevhenii's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yevhenii-kapustian&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
