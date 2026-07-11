@@ -52,6 +52,11 @@ I am a passionate Frontend Developer based in Stockholm, Sweden, with experience
 
 ### 🏆 Featured Projects & Experience
 
+* **[Yevia — AI Content Repurposing SaaS](https://yevia.app)**
+    * Solo-built and shipped a full-stack SaaS product from concept to production.
+    * Architected a Next.js 16 backend with Supabase (PostgreSQL + RLS) and a credit-based billing system via Stripe, including subscriptions, webhooks, and a ledger model for atomic refunds.
+    * Integrated the Anthropic API (Claude Sonnet) with prompt caching to reduce costs, plus an AI image generation pipeline via fal.ai at 4× concurrency.
+    * Implemented OAuth 2.0 publishing to X (PKCE), LinkedIn, Facebook, and Telegram with token auto-refresh, scheduled cron publishing, and multi-tenant agency workspaces.
 * **[Frontend Developer Intern @ Nomologics](https://www.youtube.com/watch?v=GeIVC_zI9nc)** (Artemis AI Platform)
     * Designed the UI in Figma and defined Agile User/Technical Stories.
     * Mastered Dart & Flutter in 14 days to develop the core CV adaptation module.
