@@ -57,6 +57,11 @@ I am a passionate Frontend Developer based in Stockholm, Sweden, with experience
     * Architected a Next.js 16 backend with Supabase (PostgreSQL + RLS) and a credit-based billing system via Stripe, including subscriptions, webhooks, and a ledger model for atomic refunds.
     * Integrated the Anthropic API (Claude Sonnet) with prompt caching to reduce costs, plus an AI image generation pipeline via fal.ai at 4× concurrency.
     * Implemented OAuth 2.0 publishing to X (PKCE), LinkedIn, Facebook, and Telegram with token auto-refresh, scheduled cron publishing, and multi-tenant agency workspaces.
+* **[Yevra — Print-on-Demand Apparel Store](https://yevra.vercel.app/)**
+    * Solo-built a full-stack e-commerce store on Next.js 16 (App Router, Server Components & Server Actions) with Supabase (PostgreSQL + Row Level Security + Storage).
+    * Integrated Printify for automated product sync and order fulfillment, and Stripe for checkout, webhooks, and partial refunds.
+    * Designed a merchant-mediated returns/defect-claim system — customer-facing report flow with photo upload, admin resolution queue (reprint / refund / reject), and an admin order dashboard with status filtering.
+    * End-to-end Zod validation across every Server Action, following Next.js's recommended data-mutation patterns.
 * **[Frontend Developer Intern @ Nomologics](https://www.youtube.com/watch?v=GeIVC_zI9nc)** (Artemis AI Platform)
     * Designed the UI in Figma and defined Agile User/Technical Stories.
     * Mastered Dart & Flutter in 14 days to develop the core CV adaptation module.
